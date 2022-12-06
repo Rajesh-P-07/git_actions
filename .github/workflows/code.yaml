@@ -1,4 +1,4 @@
-name: counter_app 
+name: counterapp 
 # triggers (events)
 on:
   push:
